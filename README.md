@@ -76,10 +76,10 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://calvinwan0101.github.io/
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
+[twitter]: https://twitter.com/CalvinWan0101
+[youtube]: https://www.youtube.com/channel/UCopPA3v2yluTtmgTewSFGYA
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
