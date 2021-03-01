@@ -16,7 +16,7 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/blog.png" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/blog.png" />][https://calvinwan0101.github.io/]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
