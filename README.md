@@ -18,7 +18,7 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/blog.png" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/youtube.png" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/twitter.png" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/discord.png" />][discord]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/instagram.png" />][instagram]
 
 
@@ -80,7 +80,7 @@
 [twitter]: https://twitter.com/CalvinWan0101
 [youtube]: https://www.youtube.com/channel/UCopPA3v2yluTtmgTewSFGYA
 [instagram]: https://www.instagram.com/?hl=zh-tw
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[discord]: https://discord.gg/5RpRGJ5U5X
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
