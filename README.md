@@ -24,8 +24,7 @@
 <br />
 <br />
 
-### 最近的活動
-<summary>:zap: Recent GitHub Activity</summary>
+<summary>:zap: ## Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
