@@ -18,6 +18,7 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/twitter.png" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/discord.png" />][discord]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/instagram.png" />][instagram]
+[<img align="left" alt="codeSTACKr | Email" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/email.png" />][instagram]
 
 
 <br />
