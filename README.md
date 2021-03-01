@@ -13,12 +13,12 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/blog.png" />][website]
+[<img align="left" alt="Website" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/blog.png" />][website]
 [<img align="left" alt="YouTube" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/youtube.png" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/twitter.png" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/discord.png" />][discord]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/instagram.png" />][instagram]
-[<img align="left" alt="codeSTACKr | Email" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/gmail.png" />][instagram]
+[<img align="left" alt="Twitter" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/twitter.png" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/discord.png" />][discord]
+[<img align="left" alt="Instagram" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/instagram.png" />][instagram]
+[<img align="left" alt="Email" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/gmail.png" />][instagram]
 
 
 <br />
