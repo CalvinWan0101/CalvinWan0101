@@ -3,13 +3,13 @@
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## 我是一名學生，夢想家，以及在家睡覺的臭宅
+## 我是一名學生，夢想家，以及喜歡在家睡覺的宅宅
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🌱 不斷地嘗試以踏出我的舒適圈 🤣
+- 👯 希望能交到一起寫程式的朋友
+- 🥅 2021年的希望：上一所好的大學穩扎穩打資工的基礎
+- ⚡ 喜歡單機遊戲
 
 ### Spotify Playing 🎧
 
