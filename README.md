@@ -18,16 +18,13 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/twitter.png" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/discord.png" />][discord]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/instagram.png" />][instagram]
-[<img align="left" alt="codeSTACKr | Email" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/gmail.png" />][gmail]
 
 
 <br />
 <br />
 
 [website]: https://calvinwan0101.github.io/
-[course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/CalvinWan0101
 [youtube]: https://www.youtube.com/channel/UCopPA3v2yluTtmgTewSFGYA
 [instagram]: https://www.instagram.com/?hl=zh-tw
 [discord]: https://discord.gg/5RpRGJ5U5X
-[gmail]: CalvinCycle8787@gmail.com
