@@ -37,6 +37,7 @@
 
 ➡️ [more videos...](https://youtube.com/codestackr)
 
+<-br>
 ---
 
 ### 📕 Latest Blog Posts
