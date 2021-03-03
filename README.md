@@ -16,10 +16,7 @@
 [<img align="left" alt="Instagram" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/instagram.png" />][instagram]
 
 <br />
-<br />
-
 ## Stats
-
 ![CalvinWan0101's github stats](https://github-readme-stats.vercel.app/api?username=CalvinWan0101&show_icons=true&theme=dracula)
 
 [website]: https://calvinwan0101.github.io/
