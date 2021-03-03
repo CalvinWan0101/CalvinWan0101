@@ -2,6 +2,7 @@
 來自嘉義-台灣，從高二時開始接觸程式
 [了解更多👈](https://github.com/CalvinWan0101/CalvinWan0101.github.io/blob/master/README.md)
 
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 - 🍖 不斷地嘗試以踏出我的舒適圈 
 - 🥂 希望能交到一起寫程式的朋友
 - 🍜 2021年的期待：上大學好好讀資工
