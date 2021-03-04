@@ -1,10 +1,10 @@
-## 你好，我是意大利麵 👋 
+## Hi,this is Calvin 👋 
 <img align="right" alt="GIF" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/GIF/4.gif" width="500" height="281" />
 
 ![](https://komarev.com/ghpvc/?username=your-github-CalvinWan0101&style=flat-square)
 
-來自嘉義-台灣，從高二時開始接觸程式
-[了解更多👈](https://github.com/CalvinWan0101/CalvinWan0101.github.io/blob/master/README.md)
+From Chiayi-Taiwan，learning C++ from high school
+[Learn more👈](https://github.com/CalvinWan0101/CalvinWan0101.github.io/blob/master/README.md)
 
 - 🚽 不斷地嘗試以踏出我的舒適圈 
 - 🥂 希望能交到一起寫程式的朋友
