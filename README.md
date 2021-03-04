@@ -2,10 +2,10 @@
 來自嘉義-台灣，從高二時開始接觸程式
 [了解更多👈](https://github.com/CalvinWan0101/CalvinWan0101.github.io/blob/master/README.md)
 
-- 🍖 不斷地嘗試以踏出我的舒適圈 
+- 🚽 不斷地嘗試以踏出我的舒適圈 
 - 🥂 希望能交到一起寫程式的朋友
-- 🍜 2021年讀好微積分跟計概
-- 🥘 成為軟體工程師！
+- 🎬 AMV剪輯新手
+- 💻 成為軟體工程師！
 
 ### Connect with me:
 
