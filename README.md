@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-CalvinWan0101&style=flat-square)
 
-From Chiayi-Taiwan，learning C++ from high school
+Senior high school student from Taiwan
 [Learn more👈](https://github.com/CalvinWan0101/CalvinWan0101.github.io/blob/master/README.md)
 
 - 🚽 不斷地嘗試以踏出我的舒適圈 
