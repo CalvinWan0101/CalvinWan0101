@@ -21,13 +21,6 @@
 
 <br />
 
-</hide>
-
-## Stats
-![CalvinWan0101's github stats](https://github-readme-stats.vercel.app/api?username=CalvinWan0101&show_icons=true&theme=dracula)
-
-</hide>
-
 [website]: https://calvinwan0101.github.io/
 [twitter]: https://twitter.com/CalvinWan0101
 [youtube]: https://www.youtube.com/channel/UCopPA3v2yluTtmgTewSFGYA
