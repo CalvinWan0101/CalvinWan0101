@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-CalvinWan0101&style=flat-square)
 
 High School Student From Taiwan
-[Learn more👈](https://github.com/CalvinWan0101/CalvinWan0101.github.io/blob/master/README.md)
+[Learn more about me👈](https://github.com/CalvinWan0101/CalvinWan0101.github.io/blob/master/README.md)
 
 - 🚽 不斷地嘗試以踏出我的舒適圈 
 - 🥂 希望能交到一起寫程式的朋友
