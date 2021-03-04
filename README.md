@@ -1,6 +1,6 @@
-<img align="right" alt="GIF" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/GIF/4.gif" width="500" height="281" />
-
 ## Hi,this is Calvin 👋 
+
+<img align="right" alt="GIF" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/GIF/4.gif" width="500" height="281" />
 
 ![](https://komarev.com/ghpvc/?username=your-github-CalvinWan0101&style=flat-square)
 
