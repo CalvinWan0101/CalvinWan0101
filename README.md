@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-CalvinWan0101&style=flat-square)
 
-來自台灣的18歲高中生[  Learn more👈](https://github.com/CalvinWan0101/CalvinWan0101.github.io/blob/master/README.md)
+來自台灣的18歲高中生  [Learn more👈](https://github.com/CalvinWan0101/CalvinWan0101.github.io/blob/master/README.md)
 
 - 🚽 不斷地嘗試以踏出我的舒適圈 
 - 🥂 希望能交到一起寫程式的朋友
