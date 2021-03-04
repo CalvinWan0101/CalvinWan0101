@@ -1,7 +1,7 @@
 ## 你好，我是意大利麵 👋 是一名學生，夢想家，以及喜歡在家睡覺的宅宅
-![](https://komarev.com/ghpvc/?username=your-github-CalvinWan0101&style=flat-square)
-
 <img align="right" alt="GIF" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/GIF/4.gif" width="500" height="281" />
+
+![](https://komarev.com/ghpvc/?username=your-github-CalvinWan0101&style=flat-square)
 
 來自嘉義-台灣，從高二時開始接觸程式
 [了解更多👈](https://github.com/CalvinWan0101/CalvinWan0101.github.io/blob/master/README.md)
