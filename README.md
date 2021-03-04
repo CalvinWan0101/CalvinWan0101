@@ -1,4 +1,4 @@
-## 你好，我是意大利麵 👋 是一名學生，夢想家，以及喜歡在家睡覺的宅宅
+## 你好，我是意大利麵 👋 
 <img align="right" alt="GIF" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/GIF/4.gif" width="500" height="281" />
 
 ![](https://komarev.com/ghpvc/?username=your-github-CalvinWan0101&style=flat-square)
