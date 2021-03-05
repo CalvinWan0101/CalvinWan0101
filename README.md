@@ -23,8 +23,6 @@
 
 ---
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=dCalvinWan&cover_image=true" align="left">
-
 [website]: https://calvinwan0101.github.io/
 [twitter]: https://twitter.com/CalvinWan0101
 [youtube]: https://www.youtube.com/channel/UCopPA3v2yluTtmgTewSFGYA
