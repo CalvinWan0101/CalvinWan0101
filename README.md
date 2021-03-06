@@ -19,6 +19,7 @@
 [<img align="left" alt="Twitter" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/twitter.png" />][twitter]
 [<img align="left" alt="Discord" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/discord.png" />][discord]
 [<img align="left" alt="Instagram" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/instagram.png" />][instagram]
+[<img align="left" alt="BaHaMuTe" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/dragon.png" />][BaHaMuTe]
 
 <br />
 <br />
@@ -30,3 +31,4 @@
 [youtube]: https://www.youtube.com/channel/UCopPA3v2yluTtmgTewSFGYA
 [instagram]: https://www.instagram.com/?hl=zh-tw
 [discord]: https://discord.gg/5RpRGJ5U5X
+[BaHaMuTe]: https://home.gamer.com.tw/homeindex.php?owner=ca2366414450
