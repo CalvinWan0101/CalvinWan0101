@@ -33,7 +33,7 @@
 - [Dingke-If  如果-丁可 抖音上最感傷的英文歌[4K]](https://www.youtube.com/watch?v=oPwNt5ZujeA)
 - [ヨルシカ   ヒッチコック翻譯 中文+日文 希區柯克 -  Jorsica【4K】](https://www.youtube.com/watch?v=58braRgI2Ig)
 <!-- YOUTUBE:END -->
-➡️ [See more...](https://www.youtube.com/channel/UCopPA3v2yluTtmgTewSFGYA)
+ [See more...](https://www.youtube.com/channel/UCopPA3v2yluTtmgTewSFGYA)
 ---
 
 ---
