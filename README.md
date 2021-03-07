@@ -26,6 +26,10 @@
 ---
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#3](https://github.com/CalvinWan0101/CalvinWan0101/issues/3) in [CalvinWan0101/CalvinWan0101](https://github.com/CalvinWan0101/CalvinWan0101)
+2. ❗️ Opened issue [#2](https://github.com/CalvinWan0101/CalvinWan0101/issues/2) in [CalvinWan0101/CalvinWan0101](https://github.com/CalvinWan0101/CalvinWan0101)
+3. ❗️ Closed issue [#1](https://github.com/CalvinWan0101/CalvinWan0101/issues/1) in [CalvinWan0101/CalvinWan0101](https://github.com/CalvinWan0101/CalvinWan0101)
+4. ❗️ Opened issue [#1](https://github.com/CalvinWan0101/CalvinWan0101/issues/1) in [CalvinWan0101/CalvinWan0101](https://github.com/CalvinWan0101/CalvinWan0101)
 <!--END_SECTION:activity-->
 
 
