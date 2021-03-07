@@ -26,6 +26,11 @@
 
 ---
 <!-- YOUTUBE:START -->
+- [sad story](https://www.youtube.com/watch?v=t9fjw4qL6sA)
+- [【踩點/高燃/境界的彼方】沒有未來的未來不是我想要的未來！](https://www.youtube.com/watch?v=YBHOhfMEnT4)
+- [山楂樹之戀歌詞版【4K】](https://www.youtube.com/watch?v=NyOTAv8AxrE)
+- [Dingke-If  如果-丁可 抖音上最感傷的英文歌[4K]](https://www.youtube.com/watch?v=oPwNt5ZujeA)
+- [ヨルシカ   ヒッチコック翻譯 中文+日文 希區柯克 -  Jorsica【4K】](https://www.youtube.com/watch?v=58braRgI2Ig)
 <!-- YOUTUBE:END -->
 ---
 
