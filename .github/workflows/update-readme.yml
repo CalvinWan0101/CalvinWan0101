@@ -13,4 +13,4 @@ jobs:
       - uses: CalvinWan0101/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ 4b68b42f-98be-4f28-a164-a7aea9b14458 }}
-          GH_TOKEN: ${{ 702be6781ac51bcef00c75056aa84b4fb5fd5500 }}
+          GH_TOKEN: ${{ ace45e0113aba75a52a99affc153e77aeb9cf5c7 }}
