@@ -29,9 +29,6 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<br />
-<br />
-
 ---
 
 [website]: https://calvinwan0101.github.io/
