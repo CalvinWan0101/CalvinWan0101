@@ -24,7 +24,7 @@
 </br>
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CalvinWan0101&show_icons=true&theme=radical)
+![CalvinWan0101's GitHub stats](https://github-readme-stats.vercel.app/api?username=CalvinWan0101&show_icons=true&theme=radical)
 
 
 <!--START_SECTION:waka-->
