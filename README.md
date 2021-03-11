@@ -32,7 +32,7 @@
 [<img align="right" alt="PIC" src="https://spotify-github-profile.vercel.app/api/view?uid=6zyvmkapylhp0feulz04eygy1&cover_image=true&theme=default" />](https://github.com/kittinan/spotify-github-profile)
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+<p align="right">📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Asia/Taipei
@@ -48,7 +48,7 @@ VS Code                  8 hrs 53 mins       ███████████�
 Visual Studio            54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.31%
 
 💻 Operating System: 
-Windows                  9 hrs 48 mins       █████████████████████████   100.0%
+Windows                  9 hrs 48 mins       █████████████████████████   100.0% </p>
 
 ```
 
