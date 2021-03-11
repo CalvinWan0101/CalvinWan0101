@@ -29,8 +29,6 @@
 </br>
 </br>
 
-[<img align="right" alt="PIC" src="https://spotify-github-profile.vercel.app/api/view?uid=6zyvmkapylhp0feulz04eygy1&cover_image=true&theme=default" />](https://github.com/kittinan/spotify-github-profile)
-
 <p align="right"><!--START_SECTION:waka--><\p>
 📊 **This Week I Spent My Time On** 
 
@@ -56,3 +54,5 @@ Windows                  9 hrs 48 mins       ███████████�
 <p align="right"><!--END_SECTION:waka--><\p>
 
 ![](https://github-readme-stats.vercel.app/api?username=CalvinWan0101&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+[<img align="right" alt="PIC" src="https://spotify-github-profile.vercel.app/api/view?uid=6zyvmkapylhp0feulz04eygy1&cover_image=true&theme=default" />](https://github.com/kittinan/spotify-github-profile)
