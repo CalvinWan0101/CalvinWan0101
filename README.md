@@ -1,6 +1,6 @@
 ## Hi,this is Calvin 👋 
 
-<img align="right" alt="GIF" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/GIF/4.gif" width="600" height="281" />
+<img align="right" alt="GIF" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/GIF/4.gif" width="800" height="281" />
 
 來自台灣的18歲高中生  [了解更多👈](https://github.com/CalvinWan0101/CalvinWan0101/blob/master/introduction.md)
 
