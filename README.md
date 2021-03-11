@@ -34,8 +34,6 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Taipei
-
 💬 Programming Languages: 
 C++                      9 hrs 18 mins       ███████████████████████░░   95.0% 
 Java                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.65% 
