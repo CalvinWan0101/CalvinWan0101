@@ -53,3 +53,5 @@ Windows                  9 hrs 48 mins       ███████████�
 
 
 <!--END_SECTION:waka-->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonight&show_icons=true)
