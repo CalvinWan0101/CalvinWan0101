@@ -18,7 +18,7 @@
 [<img align="left" alt="Discord" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/discord.png" />][discord]
 [<img align="left" alt="Spotify" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/spotify.png" />][spotify]
 [<img align="left" alt="BaHaMuTe" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/BaHaMuTe.png" />][BaHaMuTe]
-
+<img align="right" alt="PIC" src="https://spotify-github-profile.vercel.app/api/view?uid=6zyvmkapylhp0feulz04eygy1&cover_image=true&theme=default" />[PIC]
 [website]: https://calvinwan0101.github.io/
 [twitter]: https://twitter.com/CalvinWan0101
 [youtube]: https://www.youtube.com/channel/UCopPA3v2yluTtmgTewSFGYA
@@ -28,8 +28,6 @@
 [PIC]: https://spotify-github-profile.vercel.app/api/view?uid=6zyvmkapylhp0feulz04eygy1&redirect=true
 </br>
 </br>
-
-<img align="right" alt="PIC" src="https://spotify-github-profile.vercel.app/api/view?uid=6zyvmkapylhp0feulz04eygy1&cover_image=true&theme=default" />[PIC]
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
