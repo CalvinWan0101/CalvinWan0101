@@ -54,4 +54,4 @@ Windows                  9 hrs 48 mins       ███████████�
 
 <!--END_SECTION:waka-->
 
-![](https://github-readme-stats.vercel.app/api?username=CalvinWan0101&theme=tokyonight&show_icons=true)
+<img align="right" alt="count" src="https://github-readme-stats.vercel.app/api?username=CalvinWan0101&theme=tokyonight&show_icons=true"  />
