@@ -26,9 +26,6 @@
 [BaHaMuTe]: https://home.gamer.com.tw/homeindex.php?owner=ca2366414450
 [Spotify]: https://open.spotify.com/user/6zyvmkapylhp0feulz04eygy1?si=7LoNRc9gRz-fFyFC4VQ39w
 
-</br>
-
-
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
