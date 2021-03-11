@@ -19,7 +19,7 @@
 [<img align="left" alt="Spotify" width="21px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/spotify.png" />][spotify]
 [<img align="left" alt="BaHaMuTe" width="21px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/BaHaMuTe.png" />][BaHaMuTe]
 [<img align="left" alt="Bilibili" width="21px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/bilibili.png" />][BiliBili]
-[<img align="left" alt="CSDN" width="221x" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/CSDN.png" />][CSDN]
+[<img align="left" alt="CSDN" width="21x" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/CSDN.png" />][CSDN]
 
 [website]: https://calvinwan0101.github.io/
 [twitter]: https://twitter.com/CalvinWan0101
