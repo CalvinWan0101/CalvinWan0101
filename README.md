@@ -29,7 +29,7 @@
 </br>
 </br>
 
-<p align="right"><!--START_SECTION:waka--><\p>
+<p align="right"><!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -51,7 +51,7 @@ Windows                  9 hrs 48 mins       ███████████�
 ```
 
 
-<p align="right"><!--END_SECTION:waka--><\p>
+<p align="right"><!--END_SECTION:waka-->
 
 ![](https://github-readme-stats.vercel.app/api?username=CalvinWan0101&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
