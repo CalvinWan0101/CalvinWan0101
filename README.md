@@ -27,10 +27,9 @@
 [Spotify]: https://open.spotify.com/user/6zyvmkapylhp0feulz04eygy1?si=7LoNRc9gRz-fFyFC4VQ39w
 
 </br>
+</br>
 
 ---
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6zyvmkapylhp0feulz04eygy1&cover_image=true&theme=default)]
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
