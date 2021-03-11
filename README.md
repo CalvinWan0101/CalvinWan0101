@@ -33,4 +33,33 @@
 ---
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1797-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 590 Contributions in the Year 2021
+ > 
+> 📦 501.0 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 23 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I Mostly Code in C++** 
+
+```text
+C++                      15 repos            ██████████████████████░░░   88.24% 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/CalvinWan0101/CalvinWan0101/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
