@@ -58,3 +58,8 @@ Windows                  9 hrs 48 mins       ███████████�
 [<img align="left" alt="lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalvinWan0101&theme=tokyonight&layout=compact" width="480" />][lang]
 
 [lang]: https://github.com/CalvinWan0101/ZeroJudge
+
+
+[<img align="left" alt="Language" width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalvinWan0101&theme=tokyonight&layout=compact" />][Language]
+
+[Language]: https://github.com/CalvinWan0101/ZeroJudge
