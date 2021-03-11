@@ -54,4 +54,4 @@ Windows                  9 hrs 48 mins       ███████████�
 
 <!--END_SECTION:waka-->
 
-<p align="right">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CalvinWan0101&theme=tokyonight&show_icons=true)<\p>
+![](https://github-readme-stats.vercel.app/api?username=CalvinWan0101&theme=tokyonight&show_icons=true)
