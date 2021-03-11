@@ -1,0 +1,11 @@
+      - name: 🌟 Stars plugin
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.stars.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_stars: yes
+          plugin_stars_limit: 2
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
