@@ -49,6 +49,54 @@
  > 
 > 🔑 0 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    405 commits    ██████████░░░░░░░░░░░░░░░   41.03% 
+🌆 Daytime    187 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.95% 
+🌃 Evening    323 commits    ████████░░░░░░░░░░░░░░░░░   32.73% 
+🌙 Night      72 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.29%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       81 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.21% 
+Tuesday      78 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.9% 
+Wednesday    253 commits    ██████░░░░░░░░░░░░░░░░░░░   25.63% 
+Thursday     210 commits    █████░░░░░░░░░░░░░░░░░░░░   21.28% 
+Friday       53 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.37% 
+Saturday     224 commits    █████░░░░░░░░░░░░░░░░░░░░   22.7% 
+Sunday       88 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.92%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+C++                      9 hrs 18 mins       ███████████████████████░░   95.0% 
+Java                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.65% 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9% 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
+
+🔥 Editors: 
+VS Code                  8 hrs 53 mins       ██████████████████████░░░   90.69% 
+Visual Studio            54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.31%
+
+🐱‍💻 Projects: 
+Unknown Project          8 hrs 55 mins       ██████████████████████░░░   91.1% 
+Test                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
+資工仔日常練習                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
+
+💻 Operating System: 
+Windows                  9 hrs 48 mins       █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in C++** 
 
 ```text
