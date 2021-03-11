@@ -54,5 +54,3 @@ Windows                  9 hrs 48 mins       ███████████�
 
 
 <!--END_SECTION:waka-->
-
-<p align="right">[<img align="right" alt="PIC" src="https://spotify-github-profile.vercel.app/api/view?uid=6zyvmkapylhp0feulz04eygy1&cover_image=true&theme=default" />](https://github.com/kittinan/spotify-github-profile)
