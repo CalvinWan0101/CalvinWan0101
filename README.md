@@ -2,8 +2,6 @@
 
 <img align="right" alt="GIF" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/GIF/4.gif" width="500" height="281" />
 
-![](https://komarev.com/ghpvc/?username=your-github-CalvinWan0101&style=flat-square)
-
 來自台灣的18歲高中生  [了解更多👈](https://github.com/CalvinWan0101/CalvinWan0101/blob/master/introduction.md)
 
 - ⚔ 不斷嘗試以踏出我的舒適圈 
