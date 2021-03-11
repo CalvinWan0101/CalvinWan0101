@@ -57,4 +57,4 @@ Windows                  9 hrs 48 mins       ███████████�
 <img align="left" alt="count" src="https://github-readme-stats.vercel.app/api?username=CalvinWan0101&theme=tokyonight&show_icons=true" width="490" />
 [<img align="left" alt="lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalvinWan0101&theme=tokyonight&layout=compact" width="480" />][lang]
 
-[lang]:(https://github.com/CalvinWan0101)
+[lang]: https://github.com/CalvinWan0101
