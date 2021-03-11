@@ -26,10 +26,10 @@
 [BaHaMuTe]: https://home.gamer.com.tw/homeindex.php?owner=ca2366414450
 [Spotify]: https://open.spotify.com/user/6zyvmkapylhp0feulz04eygy1?si=7LoNRc9gRz-fFyFC4VQ39w
 
+</br>
+
 <p align="right">[<img align="right" alt="PIC" src="https://spotify-github-profile.vercel.app/api/view?uid=6zyvmkapylhp0feulz04eygy1&cover_image=true&theme=default" />](https://github.com/kittinan/spotify-github-profile)
 
-
-</br>
 </br>
 
 <!--START_SECTION:waka-->
