@@ -54,7 +54,7 @@ Windows                  9 hrs 48 mins       ███████████�
 
 <!--END_SECTION:waka-->
 
-<img align="left" alt="count" src="https://github-readme-stats.vercel.app/api?username=CalvinWan0101&theme=tokyonight&show_icons=true" width="430"  />
-<img align="right" alt="lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalvinWan0101&theme=tokyonight&layout=compact" width="360" />
+<img align="left" alt="count" src="https://github-readme-stats.vercel.app/api?username=CalvinWan0101&theme=tokyonight&show_icons=true" width="440"  />
+<img align="right" alt="lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalvinWan0101&theme=tokyonight&layout=compact" width="370" />
 
 
