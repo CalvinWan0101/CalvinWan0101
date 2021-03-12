@@ -32,6 +32,27 @@
 </br>
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+C++                      9 hrs 19 mins       ███████████████████████░░   93.09% 
+Java                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.58% 
+Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.01% 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88% 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.44%
+
+🔥 Editors: 
+VS Code                  8 hrs 53 mins       ██████████████████████░░░   88.87% 
+Visual Studio            54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.12% 
+Word                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.01%
+
+💻 Operating System: 
+Windows                  10 hrs              █████████████████████████   100.0%
+
+```
+
+
 <!--END_SECTION:waka-->
 
 <img align="right" alt="count" src="https://github-readme-stats.vercel.app/api?username=CalvinWan0101&theme=tokyonight&show_icons=true" width="433"  />
