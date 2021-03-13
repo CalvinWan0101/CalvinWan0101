@@ -31,6 +31,8 @@
 </br>
 </br>
 
+---
+
 <img align="left" alt="spo" src="https://spotify-github-profile.vercel.app/api/view?uid=6zyvmkapylhp0feulz04eygy1&cover_image=true&theme=compact" width="185" />
 
 <!--START_SECTION:waka-->
@@ -58,6 +60,8 @@ Test                     1 hr 48 mins        ███░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+---
 
 <img align="left" alt="lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalvinWan0101&theme=tokyonight&layout=compact" width="363" />
 <img align="right" alt="count" src="https://github-readme-stats.vercel.app/api?username=CalvinWan0101&theme=tokyonight&show_icons=true" width="433"  />
