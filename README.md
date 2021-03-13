@@ -1,6 +1,6 @@
 ## 歡迎來到我的Github 👋 
 
-<img align="right" alt="GIF" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/GIF/4.gif" width="540" height="260" />
+<img align="right" alt="GIF" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/GIF/4.gif" width="500" height="281" />
 
 來自台灣的18歲高中生  [了解更多👈](https://github.com/CalvinWan0101/CalvinWan0101/blob/master/introduction.md)
 
@@ -31,6 +31,8 @@
 
 </br>
 </br>
+
+---
 
 [<img align="left" alt="nowplaying" src="https://spotify-github-profile.vercel.app/api/view?uid=6zyvmkapylhp0feulz04eygy1&cover_image=true&theme=default" width="268" />][nowplaying]
 
