@@ -2,6 +2,8 @@
 
 <img align="right" alt="GIF" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/GIF/4.gif" width="500" height="281" />
 
+![CalvinWan0101's github stats](https://github-readme-stats.vercel.app/api?username=CalvinWan0101&show_icons=true&theme=dracula)
+
 來自台灣的18歲高中生  [了解更多👈](https://github.com/CalvinWan0101/CalvinWan0101/blob/master/introduction.md)
 
 - ⚔ 不斷嘗試以踏出我的舒適圈 
