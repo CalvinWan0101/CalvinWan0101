@@ -31,6 +31,10 @@
 [CSDN]: https://blog.csdn.net/m0_47928129?spm=1001.2101.3001.5343
 [nowplaying]: https://spotify-github-profile.vercel.app/api/view?uid=6zyvmkapylhp0feulz04eygy1&redirect=true
 
+</br>
+
+---
+
 [<img align="left" alt="nowplaying" src="https://spotify-github-profile.vercel.app/api/view?uid=6zyvmkapylhp0feulz04eygy1&cover_image=true&theme=default" width="240" />][nowplaying]
 
 <!--START_SECTION:waka-->
