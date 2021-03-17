@@ -14,7 +14,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Webside" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/blog.png" />][website]
+[<img align="left" alt="Webside" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/website.png" />][website]
 [<img align="left" alt="YouTube" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/youtube.png" />][youtube]
 [<img align="left" alt="Twitter" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/twitter.png" />][twitter]
 [<img align="left" alt="Discord" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/discord.png" />][discord]
