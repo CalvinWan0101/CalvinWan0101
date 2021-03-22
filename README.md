@@ -63,4 +63,4 @@ Windows                  24 hrs 25 mins      ███████████�
 <img align="right" alt="lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalvinWan0101&theme=tokyonight&layout=compact" width="407" />
 <img align="left" alt="count" src="https://github-readme-stats.vercel.app/api?username=CalvinWan0101&theme=tokyonight&show_icons=true" width="407"  />
 
-<img align="middle" alt="count" src="https://github-readme-stats.vercel.app/api/wakatime?username=CalvinWan0101&layout=compact&theme=tokyonight)" width="407"  />
+<img align="middle" alt="count" src="https://github-readme-stats.vercel.app/api/wakatime?username=CalvinWan0101&theme=tokyonight&layout=compact)" width="407"  />
