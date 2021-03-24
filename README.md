@@ -1,16 +1,3 @@
-## 歡迎來到我的Github 👋 
-
-<img align="right" alt="GIF" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/GIF/4.gif" width="500" height="281" />
-
-來自台灣的18歲高中生  [了解更多👈](https://github.com/CalvinWan0101/CalvinWan0101/blob/master/introduction.md)
-
-- ⚔ 不斷嘗試以踏出我的舒適圈 
-- 🍺 希望能交到一起寫程式的朋友
-- 🕹 遊戲愛好者(RPG/FPS)
-- 🎬 影像作業愛好者(剪輯/導演)
-- 💻 成為軟體工程師
-
-### Connect with me:
 
 [<img align="left" alt="Website" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/website.png" />][website]
 [<img align="left" alt="YouTube" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/youtube.png" />][youtube]
