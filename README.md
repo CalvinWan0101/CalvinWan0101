@@ -32,8 +32,6 @@
 </br>
 </br>
 
-<img align="right" alt="GIF" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/GIF/4.gif" width="200" height="281" />
-
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
@@ -57,3 +55,5 @@ Windows                  24 hrs 25 mins      ███████████�
 
 
 <!--END_SECTION:waka-->
+
+<img align="right" alt="GIF" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/GIF/4.gif" width="200" height="281" />
