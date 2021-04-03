@@ -4,7 +4,7 @@
 
 來自台灣的18歲高中生  [了解更多👈](https://github.com/CalvinWan0101/CalvinWan0101/blob/master/introduction.md)
 
-- ⚔ 不斷嘗試以踏出我的舒適圈 
+- ⚔ 不斷嘗試以踏出我的舒適圈
 - 🍺 希望能交到一起寫程式的朋友
 - 🕹 遊戲愛好者(RPG/FPS)
 - 🎬 影像作業愛好者(剪輯/導演)
