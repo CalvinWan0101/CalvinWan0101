@@ -59,4 +59,4 @@ Windows                  24 hrs 25 mins      ███████████�
 
 <!--END_SECTION:waka-->
 
-<iframe src="https://www.youtube.com/embed/s9IqMVrGLi8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8d7F5ikbajU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
