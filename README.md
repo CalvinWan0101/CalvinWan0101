@@ -15,13 +15,11 @@
 [<img align="left" alt="Website" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/website.png" />][website]
 [<img align="left" alt="Gmail" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/gmail.png" />][gmail]
 [<img align="left" alt="YouTube" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/youtube.png" />][youtube]
-[<img align="left" alt="Twitter" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/twitter.png" />][twitter]
 [<img align="left" alt="Discord" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/discord.png" />][discord]
 [<img align="left" alt="Spotify" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/spotify.png" />][spotify]
 [<img align="left" alt="BaHaMuTe" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/BaHaMuTe.png" />][BaHaMuTe]
 
-[website]: https://calvinwan0101.github.io/
-[twitter]: https://twitter.com/CalvinWan0101
+[website]: https://calvinwan0101.github.io
 [youtube]: https://www.youtube.com/channel/UCopPA3v2yluTtmgTewSFGYA
 [discord]: https://discord.gg/5RpRGJ5U5X
 [BaHaMuTe]: https://home.gamer.com.tw/homeindex.php?owner=ca2366414450
