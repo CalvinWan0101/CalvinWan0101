@@ -53,8 +53,5 @@ Word                     1 hr 19 mins        ███░░░░░░░░�
 Windows                  9 hrs 4 mins        █████████████████████████   100.0%
 
 ```
-<img align="right" alt="lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalvinWan0101&theme=tokyonight&layout=compact" width="408" />
-
-<img align="right" alt="count" src="https://github-readme-stats.vercel.app/api?username=CalvinWan0101&theme=tokyonight&show_icons=true" width="408"  />
 
 <!--END_SECTION:waka-->
