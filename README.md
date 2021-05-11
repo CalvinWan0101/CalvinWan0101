@@ -35,23 +35,4 @@
 ---
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-C++                      2 hrs 4 mins        ███████████████░░░░░░░░░░   60.82% 
-Markdown                 51 mins             ██████░░░░░░░░░░░░░░░░░░░   25.15% 
-Other                    28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.99% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
-
-🔥 Editors: 
-VS Code                  2 hrs 56 mins       █████████████████████░░░░   86.01% 
-Word                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.99%
-
-💻 Operating System: 
-Windows                  3 hrs 25 mins       █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
