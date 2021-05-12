@@ -31,28 +31,3 @@
 [nowplaying]: https://spotify-github-profile.vercel.app/api/view?uid=6zyvmkapylhp0feulz04eygy1&redirect=true
 
 </br>
-
----
-
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-C++                      2 hrs 5 mins        █████████████░░░░░░░░░░░░   53.83% 
-Markdown                 51 mins             █████░░░░░░░░░░░░░░░░░░░░   22.12% 
-Other                    28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.34% 
-Python                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.47% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
-
-🔥 Editors: 
-VS Code                  3 hrs 23 mins       ██████████████████████░░░   87.66% 
-Word                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.34%
-
-💻 Operating System: 
-Windows                  3 hrs 52 mins       █████████████████████████   100.0%
-
-```
-
-
-<!--END_SECTION:waka-->
