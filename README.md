@@ -30,4 +30,4 @@
 </br>
 
 <img align="right" alt="lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalvinWan0101&theme=cobalt&layout=compact&hide_border=true" width="407" />
-<img align="left" alt="count" src="https://github-readme-stats.vercel.app/api?username=CalvinWan0101&theme=cobalt&show_icons=true&hide_border=true" width="407"  />
+<img align="left" alt="count" src="https://github-readme-stats.vercel.app/api?username=CalvinWan0101&theme=dracula&show_icons=true&hide_border=true" width="407"  />
