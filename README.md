@@ -26,10 +26,3 @@
 [Spotify]: https://open.spotify.com/user/6zyvmkapylhp0feulz04eygy1?si=7LoNRc9gRz-fFyFC4VQ39w
 [gmail]: mailto:s0610078@my.cmsh.cyc.edu.tw
 [nowplaying]: https://spotify-github-profile.vercel.app/api/view?uid=6zyvmkapylhp0feulz04eygy1&redirect=true
-
-</br>
-
----
-
-<img align="left" alt="count" src="https://github-readme-stats.vercel.app/api?username=CalvinWan0101&theme=radical&show_icons=true&hide_border=true" width="444"  />
-<img align="right" alt="lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalvinWan0101&theme=radical&layout=compact&hide_border=true" width="370" />
