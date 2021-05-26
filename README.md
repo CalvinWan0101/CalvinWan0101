@@ -1,7 +1,5 @@
 ![](https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/cover04.png)
 
-## 歡迎來到我的Github 👋 
-
 <img align="right" alt="GIF" src="http://github-readme-streak-stats.herokuapp.com?user=CalvinWan0101&theme=cobalt&hide_border=true" width="570"  />
 
 來自台灣的18歲大學生  [了解更多👈](https://calvinwan0101.github.io/about/)
