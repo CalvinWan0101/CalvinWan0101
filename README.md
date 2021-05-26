@@ -28,8 +28,6 @@ College Student From Taiwan
 <p>如今回想起半年前的這個決定，定然是覺得有些魯莽。看著重考班整面醫學榜單的我，做了一個夢，一個重考就能上岸的夢。於是我認真聽課認真算數學，以為這樣便能不愧對自己，但說來好笑。去年之所以沒有上岸除了數學時常，更重要的便是英文太差。從七月開始我每天算數學3~5個小時，英文每天卻不超過1小時。某種程度而言，我依舊在逃避，對於數學我始終都有著熱忱，面對難題我都會想辦法跟他拼了，但當我看到英文的語法題四個選項時，我依舊憑著我那糟糕至極的語感作答。或許我把數學1/4的精力花在英文上也許就拿到不錯的成績了吧。最後能看的只有自然14，花了一堆時間的數學卻連頂標都沒有，最終靠著APCS的超篩錄取了國立臺北科技大學電資學士班。</p>
 </details>
 
-### Connect with me:
-
 [<img align="left" alt="Website" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/website.png" />][website]
 [<img align="left" alt="Gmail" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/gmail.png" />][gmail]
 [<img align="left" alt="YouTube" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/youtube.png" />][youtube]
