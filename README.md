@@ -33,5 +33,5 @@
 
 <details>
  <summary><strong>&#9776; Github Status</strong></summary>
- <img align="left" alt="count" src="https://github-readme-stats.vercel.app/api?username=CalvinWan0101&theme=tokyonight&show_icons=true" width="814"  />
+ <img align="middle" alt="count" src="https://github-readme-stats.vercel.app/api?username=CalvinWan0101&theme=tokyonight&show_icons=true" width="400"  />
 </details>
