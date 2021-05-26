@@ -4,8 +4,8 @@
 
 College Student From TW  [Learn More👈](https://calvinwan0101.github.io/about/)
 
-- 🎓 2020 畢業於私立協同高級中學
-- 🛠 2021 開始就讀國立臺北科技大學
+- 🎓 2020 Graduated From CMS
+- 🛠 2021 Start Study In 
 - 🎬 影像作業愛好者(剪輯/導演)
 - 💻 目標成為軟體工程師(後端/遊戲)
 
