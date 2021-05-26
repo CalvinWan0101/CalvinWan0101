@@ -4,8 +4,6 @@
 
 <img align="right" alt="GIF" src="http://github-readme-streak-stats.herokuapp.com?user=CalvinWan0101&theme=cobalt&hide_border=true" width="570"  />
 
-</br>
-
 - 🎓 2020 Graduated From CMS
 - 🛠 2021 Start Study In NTUT
 - 🎬 Movie Lover (Editors/Director)
