@@ -2,7 +2,7 @@
 
 ![](https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/COVERLAST.png)
 
-<img align="right" alt="GIF" src="http://github-readme-streak-stats.herokuapp.com?user=CalvinWan0101&theme=cobalt&hide_border=true" width="585"  />
+<img align="right" alt="GIF" src="http://github-readme-streak-stats.herokuapp.com?user=CalvinWan0101&theme=cobalt&hide_border=true" width="580"  />
 
 - 🎓 2020 Graduated From CMS
 - 🛠 2021 Start Study In NTUT
