@@ -30,6 +30,8 @@ College Student From Taiwan
 
 </br>
 
+---
+
 <details align="center">
  <summary> <samp>&#9776; Know More About Me</samp></summary>
    <h2>🍩About Myself</h2>
