@@ -32,7 +32,7 @@ College Student From TW  [More👈](https://calvinwan0101.github.io/about/)
 
 ---
 
-</details>
+<details>
    <summary> <samp>&#9776; Details</samp></summary>
 ## 🍩About Myself
 歷經高中三年 + 一年的重考的平凡高四生。
