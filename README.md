@@ -8,6 +8,7 @@
 - 🛠 2021 Start Study In NTUT
 - 🎬 Movie Lover (Editors)
 - 🕹 Game Lover (FPS/RPG)
+- 💻 Dream To Be A Programmer
 
 ### Connect with me:
 
