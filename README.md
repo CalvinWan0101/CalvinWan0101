@@ -33,7 +33,7 @@ College Student From Taiwan
 ---
 
 <details align="lef">
- <summary> <samp>**&#9776; Know More About Me**</samp></summary>
+ <summary> <samp><b>&#9776; Know More About Me</b></samp></summary>
    <h2>🍩About Myself</h2>
 <p>目前為就讀國立臺北科技大學電資學士班的大一學生。</p>
 <h3>🌭初啟蒙</h3>
