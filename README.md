@@ -32,7 +32,7 @@
 </br>
 
 <details>
- <summary><h4>&#9776; Know More About Me</h4></summary>
+ <summary><strong>&#9776; Know More About Me</strong></summary>
    <h2>🍩About Myself</h2>
 <p>目前為就讀國立臺北科技大學電資學士班的大一學生。</p>
 <h3>🌭初啟蒙</h3>
