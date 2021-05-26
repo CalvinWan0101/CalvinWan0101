@@ -34,8 +34,7 @@ College Student From TW  [More👈](https://calvinwan0101.github.io/about/)
 
 <details align="left">
    <summary> <samp>&#9776; Details</samp></summary>
-     test
-  </samp>
+   test
 </details>
 
 </br>
