@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="http://github-readme-streak-stats.herokuapp.com?user=CalvinWan0101&theme=cobalt&hide_border=true" width="570"  />
 
-College Student From Taiwan [了解更多👈](https://calvinwan0101.github.io/about/)
+College Student From Taiwan [Learn More👈](https://calvinwan0101.github.io/about/)
 
 - 🎓 2020 畢業於私立協同高級中學
 - 🛠 2021 開始就讀國立臺北科技大學
