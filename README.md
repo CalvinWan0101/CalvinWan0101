@@ -33,6 +33,5 @@
 
 <details>
  <summary><strong>&#9776; Github Status</strong></summary>
-  <img align="right" alt="lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalvinWan0101&theme=tokyonight&layout=compact" width="407" />
-<img align="left" alt="count" src="https://github-readme-stats.vercel.app/api?username=CalvinWan0101&theme=tokyonight&show_icons=true" width="407"  />
+ <img align="left" alt="count" src="https://github-readme-stats.vercel.app/api?username=CalvinWan0101&theme=tokyonight&show_icons=true" width="814"  />
 </details>
