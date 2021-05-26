@@ -10,6 +10,8 @@
 - 🕹 Game Lover (FPS/RPG)
 - 💻 Dream To Be A Programmer
 
+### Connect with me:
+
 [<img align="left" alt="Website" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/website.png" />][website]
 [<img align="left" alt="YouTube" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/youtube.png" />][youtube]
 [<img align="left" alt="Discord" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/discord.png" />][discord]
