@@ -34,7 +34,7 @@ College Student From Taiwan
 
 <details align="center">
  <summary> <samp>&#9776; Know More About Me</samp></summary>
- <p align="center">
+ <p align="left">
    <h2>🍩About Myself</h2>
 <p>目前為就讀國立臺北科技大學電資學士班的大一學生。</p>
 <h3>🌭初啟蒙</h3>
