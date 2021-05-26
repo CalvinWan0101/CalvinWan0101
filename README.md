@@ -30,8 +30,6 @@
 
 </br>
 
----
-
 <details>
  <summary><strong>&#9776; Know More About Me</strong></summary>
    <h2>🍩About Myself</h2>
