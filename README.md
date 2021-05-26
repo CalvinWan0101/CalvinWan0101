@@ -2,7 +2,7 @@
 
 ![](https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/COVERLAST.png)
 
-<img align="right" alt="GIF" src="http://github-readme-streak-stats.herokuapp.com?user=CalvinWan0101&theme=cobalt&hide_border=true" width="600"  />
+<img align="right" alt="GIF" src="http://github-readme-streak-stats.herokuapp.com?user=CalvinWan0101&theme=cobalt&hide_border=true" width="590"  />
 
 - 🎓 2020 Graduated From CMS
 - 🛠 2021 Start Study In NTUT
@@ -27,7 +27,6 @@
 [gmail]: mailto:s0610078@my.cmsh.cyc.edu.tw
 [nowplaying]: https://spotify-github-profile.vercel.app/api/view?uid=6zyvmkapylhp0feulz04eygy1&redirect=true
 
-</br>
 </br>
 
 ---
