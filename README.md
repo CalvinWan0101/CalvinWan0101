@@ -17,6 +17,7 @@
 [<img align="left" alt="Discord" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/discord.png" />][discord]
 [<img align="left" alt="Spotify" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/spotify.png" />][spotify]
 [<img align="left" alt="BaHaMuTe" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/BaHaMuTe.png" />][BaHaMuTe]
+[<img align="left" alt="Twitter" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/twitter.png" />][twitter]
 
 [website]: https://calvinwan0101.github.io/
 [twitter]: https://twitter.com/CalvinWan0101
