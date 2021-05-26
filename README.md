@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="http://github-readme-streak-stats.herokuapp.com?user=CalvinWan0101&theme=cobalt&hide_border=true" width="600"  />
 
-College Student From TW  [Learn More👈](https://calvinwan0101.github.io/about/)
+College Student From TW  [More👈](https://calvinwan0101.github.io/about/)
 
 - 🎓 2020 Graduated From CMS
 - 🛠 2021 Start Study In NTUT
