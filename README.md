@@ -28,10 +28,11 @@ College Student From TW  [More👈](https://calvinwan0101.github.io/about/)
 [gmail]: mailto:s0610078@my.cmsh.cyc.edu.tw
 [nowplaying]: https://spotify-github-profile.vercel.app/api/view?uid=6zyvmkapylhp0feulz04eygy1&redirect=true
 
+---
+
 <details align="left">
    <summary> <samp>&#9776; Details</samp></summary>
    <p align="left">
-     <br>
       test
   </samp>
   </p>
