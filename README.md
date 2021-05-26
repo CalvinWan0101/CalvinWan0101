@@ -1,4 +1,4 @@
-![](https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/cover.png)
+![](https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/cover02.png)
 
 ## 歡迎來到我的Github 👋 
 
