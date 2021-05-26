@@ -32,7 +32,7 @@ College Student From Taiwan
 
 ---
 
-<details align="middle">
+<details align="lef">
  <summary> <samp>&#9776; Know More About Me</samp></summary>
  <p align="left">
    <h2>🍩About Myself</h2>
