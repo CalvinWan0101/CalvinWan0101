@@ -28,10 +28,6 @@
 [gmail]: mailto:s0610078@my.cmsh.cyc.edu.tw
 [nowplaying]: https://spotify-github-profile.vercel.app/api/view?uid=6zyvmkapylhp0feulz04eygy1&redirect=true
 
-</br>
-
----
-
 <details align="lef">
  <summary>&#9776; Know More About Me</summary>
    <h2>🍩About Myself</h2>
