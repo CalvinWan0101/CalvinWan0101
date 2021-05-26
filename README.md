@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="http://github-readme-streak-stats.herokuapp.com?user=CalvinWan0101&theme=cobalt&hide_border=true" width="580"  />
  
 <details>
-   <summary>&#9776; College Student From TW </summary>
+   <summary>&#9776; College Student From Taiwan </summary>
    <h2>🍩About Myself</h2>
 <p>目前為就讀國立臺北科技大學電資學士班的大一學生。</p>
 <h3>🌭初啟蒙</h3>
