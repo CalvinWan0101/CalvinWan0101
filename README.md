@@ -6,7 +6,7 @@
 
 - 🎓 2020 Graduated From CMS
 - 🛠 2021 Start Study In NTUT
-- 🎬 Movie Lover
+- 🎬 Movie Lover (Editors)
 - 🕹 Game Lover (FPS/RPG)
 - 💻 Dream To Be A Programmer
 
