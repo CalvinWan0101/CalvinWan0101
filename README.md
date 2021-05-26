@@ -5,7 +5,7 @@
 College Student From TW  [Learn More👈](https://calvinwan0101.github.io/about/)
 
 - 🎓 2020 Graduated From CMS
-- 🛠 2021 Start Study In 
+- 🛠 2021 Start Study In NTUT
 - 🎬 影像作業愛好者(剪輯/導演)
 - 💻 目標成為軟體工程師(後端/遊戲)
 
