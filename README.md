@@ -31,7 +31,7 @@
 </br>
 </br>
 
-<details align="lef">
+<details align="left">
  <summary>&#9776; Know More About Me</summary>
    <h2>🍩About Myself</h2>
 <p>目前為就讀國立臺北科技大學電資學士班的大一學生。</p>
