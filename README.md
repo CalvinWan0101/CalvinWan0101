@@ -13,7 +13,6 @@
 ### Connect with me:
 
 [<img align="left" alt="Website" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/website.png" />][website]
-[<img align="left" alt="Gmail" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/gmail.png" />][gmail]
 [<img align="left" alt="YouTube" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/youtube.png" />][youtube]
 [<img align="left" alt="Discord" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/discord.png" />][discord]
 [<img align="left" alt="Spotify" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/spotify.png" />][spotify]
