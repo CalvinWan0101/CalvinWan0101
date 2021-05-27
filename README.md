@@ -33,7 +33,7 @@
 </br>
 
 <details align="middle">
- <summary><strong>&#9776; Github Status</strong></summary>
+ <summary><h3>&#9776; Github Status</h3></summary>
  <img align="middle" alt="count" src="https://github-readme-stats.vercel.app/api?username=CalvinWan0101&theme=tokyonight&show_icons=true" width="500"  />
  <img align="middle" alt="lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalvinWan0101&theme=tokyonight&layout=compact" width="500" />
 </details>
