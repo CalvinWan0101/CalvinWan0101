@@ -26,3 +26,5 @@
 [Spotify]: https://open.spotify.com/user/6zyvmkapylhp0feulz04eygy1?si=7LoNRc9gRz-fFyFC4VQ39w
 [gmail]: mailto:s0610078@my.cmsh.cyc.edu.tw
 [nowplaying]: https://spotify-github-profile.vercel.app/api/view?uid=6zyvmkapylhp0feulz04eygy1&redirect=true
+
+<iframe src="https://discord.com/widget?id=705034674459770910&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
