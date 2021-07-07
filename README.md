@@ -32,7 +32,7 @@
 
 ---
 
-<img align="left" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/GIF/%E3%80%8CS%C6%B0u%20T%E1%BA%A7m%20%E1%BA%A2nh%E3%80%8D%20My%20Gallery%20-%20%2349%20B%C3%B3ng%20l%C6%B0ng.gif" width="260" />
+<img align="left" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/GIF/%E3%80%8CS%C6%B0u%20T%E1%BA%A7m%20%E1%BA%A2nh%E3%80%8D%20My%20Gallery%20-%20%2349%20B%C3%B3ng%20l%C6%B0ng.gif" width="290" />
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
