@@ -32,7 +32,7 @@
 
 ---
 
-<img align="right" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/GIF/violet.gif" width="240" />
+<img align="left" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/GIF/violet.gif" width="240" />
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
@@ -56,7 +56,4 @@ Game01                   1 hr 5 mins         ██░░░░░░░░░�
 Unknown Project          25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.34%
 
 ```
-
-
- Last Updated on 07/07/2021
 <!--END_SECTION:waka-->
