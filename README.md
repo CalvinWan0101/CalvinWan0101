@@ -32,7 +32,7 @@
 
 ---
 
-<img align="left" alt="nowplaying" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/GIF/schoolgirl.gif" width="240" />
+<img align="left" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/GIF/violet.gif" width="240" />
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
