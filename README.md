@@ -1,7 +1,7 @@
 ### Hello! I Am [Calvin](https://calvinwan0101.github.io/about/) , A Student From Taiwan 
 
 
-<img align="right" alt="GIF" src="http://github-readme-streak-stats.herokuapp.com?user=CalvinWan0101&theme=cobalt&hide_border=true" width="580"  />
+<img align="right" alt="GIF" src="http://github-readme-streak-stats.herokuapp.com?user=CalvinWan0101&theme=cobalt&hide_border=true" width="575"  />
 
 - 🎓 2020 Graduated From CMS
 - 🛠 2021 Start Study In NTUT
