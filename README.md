@@ -34,29 +34,6 @@
 
 <img align="left" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/GIF/%E3%80%8CS%C6%B0u%20T%E1%BA%A7m%20%E1%BA%A2nh%E3%80%8D%20My%20Gallery%20-%20%2349%20B%C3%B3ng%20l%C6%B0ng.gif" width="270" />
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-C#                       8 hrs 50 mins       █████████████████░░░░░░░░   70.35% 
-C++                      2 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   22.01% 
-C                        30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.07% 
-Python                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13% 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.34%
-
-🔥 Editors: 
-Visual Studio            8 hrs 46 mins       █████████████████░░░░░░░░   69.81% 
-VS Code                  3 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   30.19%
-
-🐱‍💻 Projects: 
-Leason 1                 6 hrs 19 mins       ████████████░░░░░░░░░░░░░   50.31% 
-C Exercise               3 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   25.58% 
-Exercise01               1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.62% 
-Game01                   1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.64% 
-Unknown Project          25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.34%
-
-```
-
 
  Last Updated on 08/07/2021
 <!--END_SECTION:waka-->
