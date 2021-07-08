@@ -57,6 +57,4 @@ Unknown Project          25 mins             ░░░░░░░░░░░�
 
 ```
 
-
- Last Updated on 07/07/2021
 <!--END_SECTION:waka-->
