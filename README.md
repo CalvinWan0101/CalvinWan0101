@@ -26,14 +26,3 @@
 [Spotify]: https://open.spotify.com/user/6zyvmkapylhp0feulz04eygy1?si=7LoNRc9gRz-fFyFC4VQ39w
 [gmail]: mailto:s0610078@my.cmsh.cyc.edu.tw
 [nowplaying]: https://spotify-github-profile.vercel.app/api/view?uid=6zyvmkapylhp0feulz04eygy1&redirect=true
-
-</br>
-</br>
-
----
-
-<img align="left" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/GIF/%E3%80%8CS%C6%B0u%20T%E1%BA%A7m%20%E1%BA%A2nh%E3%80%8D%20My%20Gallery%20-%20%2349%20B%C3%B3ng%20l%C6%B0ng.gif" width="270" />
-<!--START_SECTION:waka-->
-
- Last Updated on 09/07/2021
-<!--END_SECTION:waka-->
