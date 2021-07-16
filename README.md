@@ -16,7 +16,7 @@
 [<img align="left" alt="Discord" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/discord.png" />][discord]
 [<img align="left" alt="Spotify" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/spotify.png" />][spotify]
 [<img align="left" alt="BaHaMuTe" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/BaHaMuTe.png" />][BaHaMuTe]
-[<img align="left" alt="Twitter" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/twitter.png" />][twitter]
+[<img align="left" alt="Twitter" width="22px" src="https://github.com/CalvinWan0101/CalvinWan0101/blob/master/icon/steam.png" />][steam]
 
 [website]: https://calvinwan0101.github.io/
 [twitter]: https://twitter.com/CalvinWan0101
@@ -26,4 +26,4 @@
 [Spotify]: https://open.spotify.com/user/6zyvmkapylhp0feulz04eygy1?si=7LoNRc9gRz-fFyFC4VQ39w
 [gmail]: mailto:s0610078@my.cmsh.cyc.edu.tw
 [nowplaying]: https://spotify-github-profile.vercel.app/api/view?uid=6zyvmkapylhp0feulz04eygy1&redirect=true
-
+[steam]: https://steamcommunity.com/profiles/76561198345472004/
